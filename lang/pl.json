@@ -1,0 +1,16 @@
+{
+    "allow-cookies": "Zezwalaj",
+    "disable-cookies": "Nie zezwalaj",
+    "details": "Więcej informacji",
+    "privacy policy": "polityki prywatności",
+    "close": "close",
+    "short-brief": "Ta witryna korzysta z plików cookie, aby polepszyć doświadczenie przeglądania i zapewnić dodatkową funkcjonalność.",
+    "brief": "Ta witryna korzysta z plików cookie, aby polepszyć doświadczenie przeglądania i zapewnić dodatkową funkcjonalność. Żadne z podanych danych nie będzie mogło zostać użyte do identyfikacji lub kontaktu z Tobą.",
+    "iuse-cookies-thirdparty": "Ta strona korzysta z plików cookie osób trzecich, szczegółowe informacje w polityce prywatności.",
+    "tracking": "Ta strona korzysta z śledzenia plików cookie, zobacz szczegółowe informacje na temat polityki prywatności.",
+    "privacy-page": "Aby dowiedzieć się więcej o tym, jak ta witryna korzysta z plików cookie, przeczytaj <a rel='nofollow' id='iuse-cookies-privacy-link' href=''>POLITYKĘ PRYWATNOŚCI</a>.",
+    "consent": "Klikając <span>Zezwalaj</span> wyrażasz zgodę, aby ta witryna przechowywała małe fragmenty danych w urządzeniu, z którego korzystasz.",
+    "no-consent": "Klikając <span>Nie zezwalaj</span>, <span id='iuse-cookies-scrolling'>lub przewijając stronę,</span> nie wyrażasz zgody na przechowywanie jakichkolwiek plików cookie i danych lokacyjnych dla tej witryny, ostatecznie usuwając już zapisane pliki cookie (niektóre elementy witryny mogą przestać działać poprawnie).",
+    "learn-more": "Aby dowiedzieć się więcej na temat przechowywania plików cookie, odwiedź <a rel='nofollow' target='_blank' href='http://www.giodo.gov.pl/169/id_art/1026/j/pl/'>GIODO</a>.",
+    "browser-disable": "Aby wyłączyć wszystkie pliki cookie za pośrednictwem przeglądarki, kliknij odpowiednią ikonę i postępuj zgodnie z instrukcjami."
+}

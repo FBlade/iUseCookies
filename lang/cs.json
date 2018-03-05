@@ -1,0 +1,16 @@
+{
+    "allow-cookies": "Povolit cookies",
+    "disable-cookies": "Zakázat cookies",
+    "details": "Detaily",
+    "privacy policy": "Zásady ochrany osobních údajů.",
+    "close": "zavřít",
+    "short-brief": "Tato webová stránka používá cookies ke zlepšení prohlížení webu a poskytování dalších funkcí.",
+    "brief": "Tato webová stránka používá cookies ke zlepšení prohlížení webu a poskytování dalších funkcí. Tyto údaje nebudou použity k identifikaci nebo kontaktování.",
+    "iuse-cookies-thirdparty": "Tato webová stránka používá cookies třetích stran, viz podrobnosti v politice ochrany osobních údajů.",
+    "tracking": "Tato webová stránka používá sledovací cookies, viz podrobnosti v politice ochrany osobních údajů.",
+    "privacy-page": "Pokud se chcete dozvědět více o tom, jak tento web používá cookies a localStorage, přečtěte si naše <a rel='nofollow' id='iuse-cookies-privacy-link' href=''>ZÁSADY OCHRANY OSOBNÍCH ÚDAJŮ</a>.",
+    "consent": "Kliknutím na tlačítko <span>Povolit cookies</span> dáváte souhlas této webové stránce uložit malé kousky dat na vašem zařízení.",
+    "no-consent": "Kliknutím na tlačítko <span>Zakázat cookies</span> <span id='iuse-cookies-scrolling'> nebo prohlížením stránky, </span> popřete svůj souhlas s ukládáním cookies a dat localStorage pro tuto webovou stránku, případně smažete již uložené soubory cookie (některé části webu mohou přestat fungovat správně).",
+    "learn-more": "Pokud se chcete dozvědět více o cookies navštivte <a rel='nofollow' target='_blank' href='http://ec.europa.eu/ipg/basics/legal/cookies/index_en.htm'>http://ec.europa.eu/ipg/basics/legal/cookies/index_en.htm</a>.",
+    "browser-disable": "Chcete-li zakázat všechny soubory cookie prostřednictvím prohlížeče, klikněte na příslušnou ikonu a postupujte podle pokynů:"
+}

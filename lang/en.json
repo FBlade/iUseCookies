@@ -1,0 +1,16 @@
+{
+    "allow-cookies": "Allow cookies",
+    "disable-cookies": "Disallow cookies",
+    "details": "Details",
+    "privacy policy": "Privacy Policy",
+    "close": "close",
+    "short-brief": "This website makes use of cookies to enhance browsing experience and provide additional functionality.",
+    "brief": "This website makes use of cookies to enhance browsing experience and provide additional functionality. None of this data can or will be used to identify or contact you.",
+    "iuse-cookies-thirdparty": "This website makes use of third party cookies, see the details in the privacy policy.",
+    "tracking": "This website makes use of tracking cookies, see the details in the privacy policy.",
+    "privacy-page": "To learn more about how this website uses cookies or localStorage, please read our <a rel='nofollow' id='iuse-cookies-privacy-link' href=''>PRIVACY POLICY</a>.",
+    "consent": "By clicking <span>Allow cookies</span> you give your permission to this website to store small bits of data on your device.",
+    "no-consent": "By clicking <span>Disallow cookies</span>, <span id='iuse-cookies-scrolling'>or by scrolling the page,</span> you deny your consent to store any cookies and localStorage data for this website, eventually deleting already stored cookies (some parts of the site may stop working properly).",
+    "learn-more": "To learn more about cookies and localStorage, visit <a rel='nofollow' target='_blank' href='http://ico.org.uk/for_organisations/privacy_and_electronic_communications/the_guide/cookies'>Information Commissioner's Office",
+    "browser-disable": "To disable all cookies through the browser, click on the corresponding icon and follow the instructions:"
+}

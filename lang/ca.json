@@ -1,0 +1,16 @@
+{
+    "allow-cookies": "Permetre les galetes",
+    "disable-cookies": "No permetre les galetes",
+    "details": "Detalls",
+    "privacy policy": "Política de privacitat",
+    "close": "tancar",
+    "short-brief": "Aquest lloc web fa servir galetes per millorar la experiència i proporcionar funcionalitats adicionals.",
+    "brief": "Aquest lloc web fa servir galetes per millorar la experiència i proporcionar funcionalitats adicionals. Cap d'aquesta informació pot ser utilitzada per identificar-lo o contactar-lo de cap manera.",
+    "iuse-cookies-thirdparty": "Aquest lloc web fa servir galetes de tercers, consulta els detalls a la política de privacitat.",
+    "tracking": "Aquest lloc web fa servir galetes de seguiment, consulta els detalls a la política de privacitat.",
+    "privacy-page": "Per saber més sobre còm aquest lloc fa servir les galetes, si us plau llegiu la nostra <a rel='nofollow' id='iuse-cookies-privacy-link' href=''>POLÍTICA DE PRIVACITAT</a>.",
+    "consent": "Si premeu <span>Permetre les galetes</span>, <span id='iuse-cookies-scrolling'>o desplaçant-se a través de la pàgina</span> esteu donant el vostre consentiment a emmagatzemar petites quantitats d'informació en el vostre navegador.",
+    "no-consent": "Si premeu <span>No permetre les galetes</span> esteu rebutjant que s'emmagatzemi informació d'aquest lloc i posiblement eliminant aquelles galetes ja existents (alguns apartats del lloc podrien deixar de funcionar correctament).",
+    "learn-more": "Per saber-ne més sobre les galetes, visiteu la <a rel='nofollow' target='_blank' href='https://ca.wikipedia.org/wiki/Galeta_(inform%C3%A0tica)'>Vikipèdia</a>.",
+    "browser-disable": "Per desactivar completament les galetes per qualsevol lloc que visiteu, premeu la icona corresponent al vostre navegador i seguiu les instruccions:"
+}

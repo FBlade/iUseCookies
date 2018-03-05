@@ -1,0 +1,16 @@
+{
+    "allow-cookies": "Aceptar cookies",
+    "disable-cookies": "No aceptar cookies",
+    "details": "Detalles",
+    "privacy policy": "Política de privacidad",
+    "close": "cerrar",
+    "short-brief": "Esta web utiliza cookies para mejorar la experiencia y proporcionar funcionalidades adicionales.",
+    "brief": "Esta web utiliza cookies para mejorar la experiencia y proporcionar funcionalidades adicionales. Ninguna de esta información puede ser o será utilizada para identificarle o contactarle.",
+    "iuse-cookies-thirdparty": "Esta web utiliza cookies de terceros, consulte los detalles en la política de privacidad.",
+    "tracking": "Esta web utiliza cookies de seguimiento, consulte los detalles en la política de privacidad.",
+    "privacy-page": "Para saber más sobre cómo se utilizan las cookies en esta web consulte nuestra <a rel='nofollow' id='iuse-cookies-privacy-link' href=''>POLÍTICA DE PRIVACIDAD</a>.",
+    "consent": "Pulsando <span>Aceptar cookies</span>, <span id='iuse-cookies-scrolling'>o desplazándose a través de la página,</span> está dando su consentimiento a que se almacenen pequeñas cantidades de información en su navegador.",
+    "no-consent": "Pulsando <span>No aceptar cookies</span> rechaza que se almacene información alguna para esta web y posiblemente se borre las cookies ya existente (algunas partes de la web podrían dejar de funcionar correctamente).",
+    "learn-more": "Para saber más sobre cookies consulte la <a rel='nofollow' target='_blank' href='https://es.wikipedia.org/wiki/Cookie_(inform%C3%A1tica)'>Wikipedia</a>.",
+    "browser-disable": "Para desactivar completamente las cookies en este navegador, pulse sobre el icono correspondiente y siga las instrucciones:"
+}

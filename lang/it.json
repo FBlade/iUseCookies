@@ -1,0 +1,16 @@
+{
+    "allow-cookies": "Ho capito",
+    "disable-cookies": "Non consentire cookies",
+    "details": "Dettagli",
+    "privacy policy": "privacy policy",
+    "close": "close",
+    "short-brief": "I cookie ci aiutano a fornire i nostri servizi. Utilizzando tali servizi, accetti l'utilizzo dei cookie da parte nostra.",
+    "brief": "Questo sito fa uso di cookies per migliorare l'esperienza di navigazione e per fornire funzionalità aggiuntive. Si tratta di dati del tutto anonimi, utili a scopo tecnico o statistico, e nessuno di questi dati verrà utilizzato per identificarti o per contattarti.",
+    "iuse-cookies-thirdparty": "Questo sito potrebbe fare uso di cookies di terze parti. Maggiori dettagli sono presenti sulla privacy policy.",
+    "tracking": "Questo sito potrebbe fare uso di cookies di profilazione. Maggiori dettagli sono presenti sulla privacy policy.",
+    "privacy-page": "Per sapere come questo sito utilizza cookies o localStorage, leggi la <a rel='nofollow' id='iuse-cookies-privacy-link' href=''>PRIVACY POLICY</a>.",
+    "consent": "Cliccando il bottone <span>Ho capito</span>, <span id='iuse-cookies-scrolling'>oppure scorrendo la pagina,</span> confermi il tuo consenso a questo sito di salvare alcuni piccoli blocchi di dati sul tuo computer.",
+    "no-consent": "Cliccando il bottone <span>Non consentire cookies</span> neghi il tuo consenso, eliminando eventuali cookies e dati localStorage già presenti (alcune parti del sito potrebbero smettere di funzionare correttamente).",
+    "learn-more": "Per saperne di più su cookies e localStorage, visita il sito <a rel='nofollow' target='_blank' href='http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/3118884'>Garante per la protezione dei dati personali",
+    "browser-disable": "Per disabilitare tutti i cookies mediante la configurazione del browser, clicca sull'icona corrispondente e segui le istruzioni indicate:"
+}

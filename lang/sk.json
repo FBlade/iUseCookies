@@ -1,0 +1,16 @@
+{
+    "allow-cookies": "Povoliť cookies",
+    "disable-cookies": "Zakázať cookies",
+    "details": "Detaily",
+    "privacy policy": "politike ochrany osobných údajov",
+    "close": "zatvoriť",
+    "short-brief": "",
+    "brief": "Táto webová stránka využíva cookies na zlepšenie prehliadania webu a poskytovania ďalších funkcií. Tieto údaje nebudú použité na identifikáciu alebo kontaktovanie.",
+    "iuse-cookies-thirdparty": "Táto webová stránka využíva cookies tretích strán, pozri podrobnosti v politike ochrany osobných údajov.",
+    "tracking": "Táto webová stránka využíva sledovacie cookies, pozri podrobnosti v politike ochrany osobných údajov.",
+    "privacy-page": "Ak sa chcete dozvedieť viac o tom, ako tento web používa cookies a localStorage, prečítajte si naše <a rel='nofollow' id='iuse-cookies-privacy-link' href=''>ZÁSADY OCHRANY OSOBNÝCH ÚDAJOV</a>.",
+    "consent": "Kliknutím na tlačidlo <span>Povoliť cookies</span> dávate súhlas tejto webovej stránke uložiť malé kúsky dát na Vašom zariadení.",
+    "no-consent": "Kliknutím na tlačidlo <span>Zakázať cookies</span> <span id='iuse-cookies-scrolling'> alebo prehliadaním stránky,</span> popriete svoj súhlas s ukladaním cookies a dát localStorage pre túto webovú stránku, prípadne zmažete už uložené súbory cookie (niektoré časti webu môžu prestať fungovať správne).",
+    "learn-more": "Ak sa chcete dozvedieť viac o cookies, návštívte <a rel='nofollow' target='_blank' href='http://ec.europa.eu/ipg/basics/legal/cookies/index_en.htm'>http://ec.europa.eu/ipg/basics/legal/cookies/index_en.htm",
+    "browser-disable": "Ak chcete zakázať všetky súbory cookie prostredníctvom prehliadača, kliknite na príslušnú ikonu a postupujte podľa pokynov:"
+}

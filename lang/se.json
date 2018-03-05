@@ -1,0 +1,16 @@
+{
+    "allow-cookies": "Tillåt cookies",
+    "disable-cookies": "Tillåt inte cookies",
+    "details": "Detaljer",
+    "privacy policy": "sekretesspolicy",
+    "close": "stäng",
+    "short-brief": "Denna webbplats använder cookies för att förbättra webbupplevelse och ge ytterligare funktionalitet.",
+    "brief": "Denna webbplats använder cookies för att förbättra webbupplevelse och ge ytterligare funktionalitet. Inget av dessa data kan eller kommer att användas för att identifiera eller kontakta dig.",
+    "iuse-cookies-thirdparty": "Denna webbplats använder sig av tredje parts cookies, se information i sekretesspolicy.",
+    "tracking": "Denna webbplats använder cookies, se information i sekretesspolicy.",
+    "privacy-page": "Om du vill veta mer om hur denna webbplats använder cookies eller local, läs vår <a rel='nofollow' id='iuse-cookies-privacy-link' href=''>sekretesspolicy</a>.",
+    "consent": "Genom att klicka <span>Tillåt cookies</span> ger du din tillåtelse till denna webbplats att lagra små bitar av data på din enhet.",
+    "no-consent": "Genom att klicka <span>Tillåt inte cookies</span>, <span id='iuse-cookies-scrolling'>eller genom att scrolla på sidan,</span> förnekar du ditt medgivande att lagra cookies och localStorage för denna webbplats, så småningom tas redan lagrade cookies bort. (Vissa delar av webbplatsen kan sluta fungera på rätt sätt.)",
+    "learn-more": "För att läsa med om cookies och localStorage, besök <a rel='nofollow' target='_blank' href='http://ico.org.uk/for_organisations/privacy_and_electronic_communications/the_guide/cookies'>Information Commissioner's Office",
+    "browser-disable": "För att inaktivera alla cookies via webbläsaren, klicka på motsvarande ikon och följ instruktionerna:"
+}

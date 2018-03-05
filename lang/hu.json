@@ -1,0 +1,16 @@
+{
+    "allow-cookies": "Sütik elfogadása",
+    "disable-cookies": "Sütik kikapcsolása",
+    "details": "Részletek",
+    "privacy policy": "adatvédelmi szabályzatban",
+    "close": "bezár",
+    "short-brief": "Ez az oldal sütiket használ a felhasználói élmény fokozása érdekében.",
+    "brief": "Ez az oldal sütiket használ a felhasználói élmény fokozása érdekében. A gyűjtött adatokat nem használjuk azonosításra vagy kapcsolatfelvételre.",
+    "iuse-cookies-thirdparty": "Ez az oldal harmadik féltől származó sütiket használ. A részleteket megtalálja az adatvédelmi szabályzatban.",
+    "tracking": "Ez az oldal nyomkövető sütiket használ. A részleteket megtalálja az adatvédelmi szabályzatban.",
+    "privacy-page": "Ha többet akar tudni a sütikről vagy a localStorage megoldásról, olvassa el az <a rel='nofollow' id='iuse-cookies-privacy-link' href=''>ADATVÉDELMI SZABÁLYZATUNKAT</a>.",
+    "consent": "Ha a <span>Sütik elfogadása</span>, <span id='iuse-cookies-scrolling'>vagy végig görgeti az oldalt,</span> gombra kattint, engedélyezi, hogy a sütiben apró adatmennyiséget tároljunk a számítógépén.",
+    "no-consent": "Ha a <span>Sütik kikapcsolása</span> gombra kattint, nem fogadja el a sütik vagy a localStorage használatát erre a weboldalra, esetleg törli a már tárolt sütiket (az oldal némely részei nem fognak megfelelően működni).",
+    "learn-more": "Ha többet akar tudni a sütikről és a localStorage megoldásról, látogassa meg az <a rel='nofollow' target='_blank' href='http://ico.org.uk/for_organisations/privacy_and_electronic_communications/the_guide/cookies'>Information Commissioner's Office</a> angol nyelvű oldalát.",
+    "browser-disable": "Ha ki akarja kapcsolni a sütik használatát, válassza ki a böngészőjét a megfelelő ikonra kattintva:"
+}
