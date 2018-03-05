@@ -1,0 +1,16 @@
+{
+    "allow-cookies": "Accept cookie-uri",
+    "disable-cookies": "Nu accept cookie-uri",
+    "details": "Detalii",
+    "privacy policy": "politica de confidenţialitate",
+    "close": "close",
+    "short-brief": "Această pagină web folosește cookie-uri pentru a îmbunătăți experiența de navigare și a asigura funcționalițăți adiționale.",
+    "brief": "Această pagină web folosește cookie-uri pentru a îmbunătăți experiența de navigare și a asigura funcționalițăți adiționale. Nici o parte din aceste date nu poate si nu va fi folosită pentru a te identifica sau contacta.",
+    "iuse-cookies-thirdparty": "Această pagină web folosește cookie-uri, citește detailile în politica de confidenţialitate.",
+    "tracking": "Această pagină web folosește cookie-uri de urmărire, citește detailile în politica de confidenţialitate.",
+    "privacy-page": "Pentru a învața cum această pagină web folosește cookie-uri sau stocarea locală, citește te rog <a rel='nofollow' id='iuse-cookies-privacy-link' href=''>POLITICA DE CONFIDENȚALITATE</a>.",
+    "consent": "Dănd clic pe <span>Accept cookie-uri</span> accepți că această pagina web stochează date mici pe aparatul tău.",
+    "no-consent": "Dănd clic pe <span>Nu accept cookie-uri</span>, <span id='iuse-cookies-scrolling'>sau navigând pe pagină,</span> interzici stocarea cookie-urilor sau datelor locale pentru această pagină web, stergând cookie-uri deja stocate (este posibil că unele părți a paginei web nu vor mai funcționa).",
+    "learn-more": "Pentru a invăța mai mult despre cookie-uri si stocarea locală, visitează <a rel='nofollow' target='_blank' href='https://www.apti.ro/cookies/'>Asociația pentru Tehnologie și Internet</a>.",
+    "browser-disable": "Pentru a dezactiva toate cookie-urile in browser, dă clic pe iconița corespunzătoare și urmărește instrucțiunile:"
+}

@@ -1,0 +1,16 @@
+{
+    "allow-cookies": "Permitir cookies",
+    "disable-cookies": "Bloquear cookies",
+    "details": "Detalhes",
+    "privacy policy": "Política de Privacidade",
+    "close": "fechar",
+    "short-brief": "Este site utiliza cookies para melhorar a experiência de navegação e disponibilizar funcionalidades adicionais.",
+    "brief": "Este site utiliza cookies para melhorar a experiência de navegação e fornecer funcionalidades extra. Nenhuns dados relacionados serão utilizados para o identificar ou contactar.",
+    "iuse-cookies-thirdparty": "Este site utiliza cookies de sites secundários, veja os detalhes do manifesto de privacidade.",
+    "tracking": "Este site utiliza cookies de rastreamento, veja os detalhes do manifesto de privacidade.",
+    "privacy-page": "Para ver mais detalhes sobre como este site utiliza cookies ou localStorage, por favor leia o nosso <a rel='nofollow' id='iuse-cookies-privacy-link' href=''>MANIFESTO DE PRIVACIDADE</a>.",
+    "consent": "Ao carregar em <span>Permitir cookies</span>, <span id='iuse-cookies-scrolling'>ou percorrendo a página,</span> dá permissão a este site para guardar pequenos blocos de bits de dados no seu dispositivo.",
+    "no-consent": "Ao carregar em <span>Bloquear cookies</span> não permite que sejam guardados cookies ou dados no localStorage para este site, eventualmente apagando cookies já guardados (algumas partes do site podem deixar de funcionar corretamente).",
+    "learn-more": "Para aprender mais sobre cookies e localStorage, visite <a rel='nofollow' target='_blank' href='http://ico.org.uk/for_organisations/privacy_and_electronic_communications/the_guide/cookies'>Information Commissioner's Office</a>.",
+    "browser-disable": "Para desabilitar todos os cookies através do browser, carregue no ícone do seu browser e siga as instruções:"
+}

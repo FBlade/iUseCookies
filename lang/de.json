@@ -1,0 +1,17 @@
+{
+    "allow-cookies": "Verstanden",
+    "disable-cookies": "Cookies verbieten",
+    "details": "Details",
+    "privacy policy": "Datenschutzrichtlinie",
+    "close": "close",
+    "short-brief": "Diese Internetseite verwendet Cookies, um die Nutzererfahrung zu verbessern und den Benutzern bestimmte Dienste und Funktionen bereitzustellen.",
+    "brief": "Diese Internetseite verwendet Cookies, um die Nutzererfahrung zu verbessern und den Benutzern bestimmte Dienste und Funktionen bereitzustellen.
+			Es werden keine der so gesammelten Daten genutzt, um Sie zu identifizieren oder zu kontaktieren.",
+    "iuse-cookies-thirdparty": "Diese Internetseite macht Gebrauch von Cookies von Dritten, siehe dazu weitere Details in der Datenschutzrichtlinie.",
+    "tracking": "Diese Internetseite macht Gebrauch von Tracking Cookies, siehe dazu weitere Details in der Datenschutzrichtlinie.",
+    "privacy-page": "Lesen Sie bitte unsere <a rel='nofollow' id='iuse-cookies-privacy-link' href=''>Datenschutzrichtlinie</a>, um mehr darüber zu erfahren, wie diese Internetseite Cookies und lokalen Speicher nutzt.",
+    "consent": "Durch das Klicken von <span>Cookies erlauben</span>, <span id='iuse-cookies-scrolling'>oder indem Sie durch die Seite scrollen,</span>  geben Sie dieser Internetseite die Erlaubnis, Informationen in Form von Cookies auf Ihrem Gerät zu speichern.",
+    "no-consent": "Durch das Klicken von <span>Cookies verbieten</span> verweigern Sie Ihre Zustimmung, Cookies oder lokalen Speicher zu nutzen. Weiterhin werden alle Cookies und lokal gespeicherte Daten gelöscht und Teile der Internetseite könnten aufhören, ordnungsgemäß zu funktionieren.",
+    "learn-more": "Besuchen Sie die Internetseite des <a rel='nofollow' target='_blank' href='http://www.bfdi.bund.de/DE/Home/home_node.html'>Bundesbeauftragten für den Datenschutz und die Informationsfreiheit</a>, um mehr über Cookies und lokalen Speicher zu erfahren.",
+    "browser-disable": "Klicken Sie auf das Icon Ihres Browsers und folgen Sie den Anleitungen, um Cookies im gesamten Browser zu deaktivieren oder zu verwalten:"
+}
